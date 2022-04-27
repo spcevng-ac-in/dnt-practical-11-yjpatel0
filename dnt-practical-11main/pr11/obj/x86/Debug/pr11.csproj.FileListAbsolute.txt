@@ -1,0 +1,6 @@
+D:\DotNet\pr11\pr11\bin\Debug\pr11.exe
+D:\DotNet\pr11\pr11\bin\Debug\pr11.pdb
+D:\DotNet\pr11\pr11\obj\x86\Debug\pr11.Properties.Resources.resources
+D:\DotNet\pr11\pr11\obj\x86\Debug\pr11.csproj.GenerateResource.Cache
+D:\DotNet\pr11\pr11\obj\x86\Debug\pr11.exe
+D:\DotNet\pr11\pr11\obj\x86\Debug\pr11.pdb
